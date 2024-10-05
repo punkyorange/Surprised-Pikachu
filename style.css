@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+
+.poster {
+    font-family: "Libre Baskerville", serif;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+    color: white;
+}
+
+.pikachu {
+    border: 5px solid white;
+    width: 100%;
+}
